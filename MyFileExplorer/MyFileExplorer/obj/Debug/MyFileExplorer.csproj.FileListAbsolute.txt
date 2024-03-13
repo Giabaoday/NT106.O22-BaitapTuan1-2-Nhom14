@@ -1,0 +1,10 @@
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\bin\Debug\MyFileExplorer.exe.config
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\bin\Debug\MyFileExplorer.exe
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\bin\Debug\MyFileExplorer.pdb
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\obj\Debug\MyFileExplorer.csproj.AssemblyReference.cache
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\obj\Debug\MyFileExplorer.Form1.resources
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\obj\Debug\MyFileExplorer.Properties.Resources.resources
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\obj\Debug\MyFileExplorer.csproj.GenerateResource.cache
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\obj\Debug\MyFileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\obj\Debug\MyFileExplorer.exe
+C:\Users\Bao\source\repos\MyFileExplorer\MyFileExplorer\obj\Debug\MyFileExplorer.pdb

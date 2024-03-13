@@ -1,3 +1,3 @@
-22520871	Nguyễn Đặng Bình Minh
-21521347	Nguyễn Trần Vũ Quang
-22520120	Trần Gia Bảo
+Trần Gia Bảo          - MSSV: 2250120
+Nguyễn Đặng Bình Minh - MSSV: 22520871
+Nguyễn Trần Vũ Quang  - MSSV: 21521347
